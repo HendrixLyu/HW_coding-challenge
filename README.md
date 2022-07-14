@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-The Project create by Hendrix and I set a Responsive Breakpoint @ 600px;
+The Project create by Hendrix and I set a responsive Breakpoint @ 600px;
 
 The whole project took approximately 6 hours;
 
