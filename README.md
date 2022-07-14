@@ -7,8 +7,8 @@ then From 7:00 to 9:00 p.m. on Thursday(Today), implemented the function of fetc
 
 ## Available Scripts
 
-In the project directory, you can run (npm i):
-
+In the project directory, you can run :
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
