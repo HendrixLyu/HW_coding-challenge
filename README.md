@@ -3,7 +3,9 @@
 The Project create by Hendrix and I set a Responsive Breakpoint @ 600px;
 
 The whole project took approximately 6 hours;
+
 It took one hour to read the project requirements document from 9:00 to 10:00 p.m. on Wednesday(13 July), First, divide the component hierarchy to achieve componentization and high reusability, and then completed the React static page within one hour;
+
 Then from 7:00 to 9:00 p.m. on Thursday(Today), implemented the function of fetching data through the fake-api.js, and then it took another hour to adjust the display format of the time and other data;
 
 ## Available Scripts
