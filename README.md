@@ -1,10 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Project create by Hendrix and I set a Responsive Breakpoint @ 600px;
+
+The whole project took approximately 6 hours, read the project requirements document at 9:00-10:00 p.m. on Wednesday(13 July), First divide the component hierarchy to achieve componentization and high reusability, and completed the React static page in no more than one hour.
+then From 7:00 to 9:00 p.m. on Thursday(Today), implemented the function of fetching data through the fake-api.js, and then it took another hour to adjust the display format of the time and other data.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run (npm i):
 
 ### `npm start`
 
